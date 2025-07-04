@@ -1,0 +1,1 @@
+import{_ as a}from"./index-DkD_8jQF.js";import{a0 as t,a2 as e,a1 as s}from"./vendor-D0innEIf.js";import"./ui-F8VKazG6.js";import"./utils-Cfc3znND.js";const r={},n={class:"faq-page"};function c(_,o){return s(),t("div",n,o[0]||(o[0]=[e("h1",null,"FAQ",-1),e("p",null,"Coming soon...",-1)]))}const d=a(r,[["render",c],["__scopeId","data-v-2062c852"]]);export{d as default};

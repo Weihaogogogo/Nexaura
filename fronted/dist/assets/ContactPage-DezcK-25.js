@@ -1,0 +1,1 @@
+import{_ as a}from"./index-DkD_8jQF.js";import{a0 as e,a2 as t,a1 as n}from"./vendor-D0innEIf.js";import"./ui-F8VKazG6.js";import"./utils-Cfc3znND.js";const s={},c={class:"contact-page"};function r(_,o){return n(),e("div",c,o[0]||(o[0]=[t("h1",null,"Contact Us",-1),t("p",null,"Coming soon...",-1)]))}const d=a(s,[["render",r],["__scopeId","data-v-2eaf2270"]]);export{d as default};

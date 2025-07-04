@@ -1,0 +1,1 @@
+import{_ as r}from"./index-DkD_8jQF.js";import{a0 as n,a2 as o,a1 as t}from"./vendor-D0innEIf.js";import"./ui-F8VKazG6.js";import"./utils-Cfc3znND.js";const a={},s={class:"pricing-page"};function c(i,e){return t(),n("div",s,e[0]||(e[0]=[o("h1",null,"Pricing",-1),o("p",null,"Coming soon...",-1)]))}const d=r(a,[["render",c],["__scopeId","data-v-2c6e1309"]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as t}from"./index-ithBrxDH.js";import{a0 as a,a2 as o,a1 as r}from"./vendor-D0innEIf.js";import"./ui-F8VKazG6.js";import"./utils-Cfc3znND.js";const s={},n={class:"help-page"};function c(p,e){return r(),a("div",n,e[0]||(e[0]=[o("h1",null,"Help Center",-1),o("p",null,"Coming soon...",-1)]))}const d=t(s,[["render",c],["__scopeId","data-v-4876eac3"]]);export{d as default};

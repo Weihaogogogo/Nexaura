@@ -1,0 +1,33 @@
+# 生产环境配置模板
+# 请在云服务器上修改这些值为实际的安全值
+
+# Flask环境配置
+FLASK_ENV=production
+FLASK_DEBUG=false
+
+# 数据库配置（请修改为强密码）
+MYSQL_ROOT_PASSWORD=YOUR_SECURE_MYSQL_ROOT_PASSWORD
+MYSQL_DATABASE=db_seo_article
+MYSQL_USER=seo_user
+MYSQL_PASSWORD=YOUR_SECURE_MYSQL_USER_PASSWORD
+
+# Redis配置（请修改为强密码）
+REDIS_PASSWORD=YOUR_SECURE_REDIS_PASSWORD
+
+# JWT配置（请生成强密钥，至少32字符）
+JWT_SECRET_KEY=YOUR_SUPER_SECURE_JWT_SECRET_KEY_32_CHARS_MIN
+JWT_ACCESS_TOKEN_EXPIRES=3600
+JWT_REFRESH_TOKEN_EXPIRES=2592000
+
+# 邮件配置（请填入真实邮箱信息）
+MAIL_SERVER=smtp.163.com
+MAIL_PORT=587
+MAIL_USE_TLS=true
+MAIL_USERNAME=your_email@163.com
+MAIL_PASSWORD=your_email_app_password
+MAIL_DEFAULT_SENDER=your_email@163.com
+
+# 域名配置（请修改为你的域名）
+DOMAIN=nexauraseo.com
+
+# 注意：复制到云服务器后，请重命名为 .env 并填入真实值 
